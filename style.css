@@ -9,11 +9,16 @@ background-size: 2800% 2800%;
 animation: DaAnimation 60s ease infinite;
 }
 
-.wrapper{
+div.wrapper#container{
     background: url("https://www.colourbox.com/preview/8423895-luxury-pattern-with-thin-elegant-lines.jpg");
     opacity: 0.5;
 /*    width: 100%;
     height: 100% */
+    margin: 0px auto;
+    width: 500px;
+    height: 375px;
+    border: 10px #333 solid;
+
 }
 
 
@@ -39,12 +44,6 @@ animation: DaAnimation 60s ease infinite;
     }
 
 
-#container {
-    margin: 0px auto;
-    width: 500px;
-    height: 375px;
-    border: 10px #333 solid;
-}
 #videoElement {
     width: 500px;
     height: 375px;
