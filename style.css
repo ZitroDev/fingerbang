@@ -12,6 +12,8 @@ animation: DaAnimation 60s ease infinite;
 .wrapper{
     background: url("https://www.colourbox.com/preview/8423895-luxury-pattern-with-thin-elegant-lines.jpg");
     opacity: 0.5;
+    width: 100%;
+    height: 100%
 }
 
 
