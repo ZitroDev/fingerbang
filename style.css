@@ -20,7 +20,9 @@ div.wrapper#container{
     border: 10px #333 solid;
 
 }
-
+video{
+  opacity: 1;
+}
 
 @-webkit-keyframes DaAnimation {
     0%{background-position:0% 50%}
