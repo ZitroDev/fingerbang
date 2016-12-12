@@ -10,7 +10,7 @@ animation: DaAnimation 60s ease infinite;
 }
 
 div.wrapper#container{
-    background: url("https://www.colourbox.com/preview/8423895-luxury-pattern-with-thin-elegant-lines.jpg");
+    background: url("https://www.colourbox.com/preview/8423895-luxury-pattern-with-thin-elegant-lines.jpg") z-index="9999999" ;
     opacity: 0.5;
 /*    width: 100%;
     height: 100% */
